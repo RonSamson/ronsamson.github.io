@@ -13,7 +13,7 @@ body {color: #555; margin:0; font-family: 'Montserrat', sans-serif;}
 a {color: #1abc9c; text-decoration: none;}
 a:hover{color: #F6A623;}
 .post, .about{max-width: 800px; margin:0 auto; padding: 60px 0; vertical-align: middle;}
-.post-author span{margin-left: 16px;}
+.post-author span{margin-left: 16px; font-weight:bold; font-size: 16px; color:gray}
 .post-date{color:#D2D2D2; font-size: 14px; font-weight: bold;text-transform: uppercase;letter-spacing: 0.1em;}
 h1, h2, h3, h4{color: #333;}
 p{line-height:1.5;}
